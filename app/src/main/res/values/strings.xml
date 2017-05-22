@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Manualidades</string>
+    <string name="hint_username">Nombre del Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">¿No tienes cuenta?</string>
+    <string name="create_here">Crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="text_button_createaccount">Unete</string>
+    <string name="transitionname_picture">transitionname_picture</string>
+    <string name="username_card">Soporte de Celular</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">5 días</string>
+    <string name="likenumbercard_card">20 Me gusta</string>
+    <string name="tomar_foto">Tomar foto</string>
+    <string name="secundword_detail">Me gusta</string>
+    <string name="titleimagedetail">Soporte para tu celular usando rollos de cartón.</string>
+    <string name="lorem">Lo primero que vamos hacer es medir el tamaño del tu celular en el cartón, dejando una pequeña diferencia. Con un cuter, cortamos el lugar donde marcamos. Forramos el rollo con Washi Tape, incluso en donde recortamos. Dejamos los bordes libres.  Colocamos en el borde que habíamos dejado libre, otro color de Washi Tape y decoramos como mas nos guste. Colocamos los pines en la parte de abajo del rollo. Y listo!</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="title_activity_referencia">Referencia Activity</string>
+    <string name="title_activity_cardview">Cardview</string>
+    <string name="title_activity_ventana1">ventana1</string>
+    <string name="texto2">Necesitas una vela pequeña, de esas que venden por lotes de un montón de ellas, cortar en círculos los tubos de cartón. Dar forma de corazón a los trozos cortados, pintarlos de color de rojo o rosa para darle un ambiente más amoroso a la pieza, que sirve para decorar cualquier lugar de la casa. Y pegarlos en la parte metálica de la vela.</string>
+    <string name="texto3">PRIMER PASO: Recortar los tubos SEGUNDO PASO: Debes pintar todas las piezas tanto por fuera como por dentro y puedes hacerlo con diferentes colores TERCER PASO: Decorar, deber pegar una tira de papel o cinta por todos los bordes de las piezas incluyendo las ventanitas que se hicieron al comienzo. CUARTO PASO: Armar, unir todas las piezas utilizando silicona caliente o líquida Cuando tengas todo pegado, en un trozo de cartón traza el contorno dejando un margen.  Esta pieza la debes pintar por una cara y los bordes,  por debajo forrarla con goma eva o foam. Por último pegar la base a las piezas, y ¡ya tenemos terminado el organizador!</string>
+</resources>
